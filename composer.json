@@ -19,7 +19,7 @@
         "phpunit/phpunit": "8.x"
     },
     "require": {
-        "illuminate/support": "^5.2|^6.0|^7.0"
+        "illuminate/support": "dev-master"
     },
     "extra": {
         "laravel": {
