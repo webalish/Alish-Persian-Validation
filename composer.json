@@ -14,13 +14,17 @@
             "Alishpersian\\Validation\\": "src"
         }
     },
+    "require": {
+        "php": ">=7.3",
+    },
     "require-dev": {
-        "phpunit/phpunit": "10.0"
+        "phpunit/phpunit": "^8.5",
     },
     
         "require": {
-        "illuminate/support": "^5.2|^6.0|^7.0|^8.0"
-    },]
+        "illuminate/support": "^5.2|^6.0|^7.0|^8.x"
+    },
+    ]
     "extra": {
         "laravel": {
             "providers": [
