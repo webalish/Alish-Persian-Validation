@@ -1,5 +1,5 @@
 {
-    "name": "alishpersian/validation",
+    "name": "alishpersian/persian-validation",
     "license": "MIT",
     "description": "Alish persian validation",
     "keywords": ["laravel", "validation", "persian", "farsi", "validate", "lumen", "check"],
