@@ -1,7 +1,7 @@
 
   {
    "name": "alishpersian/persian-validation",
-    "license": "MIT",
+   "license": "MIT",
     "description": "Alish persian validation",
     "keywords": ["laravel", "validation", "persian", "farsi", "validate", "lumen", "check"],
     "authors": [
@@ -19,7 +19,7 @@
         "phpunit/phpunit": "8.x"
     },
     "require": {
-      "php": "^7.3|^8.0",
+        "illuminate/support": "^5.2|^6.0|^7.0"
     },
     "extra": {
         "laravel": {
@@ -29,4 +29,3 @@
         }
     }
 }
-
